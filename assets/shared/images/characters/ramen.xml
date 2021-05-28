@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ramen.png" width="2782" height="2709">
+  <SubTexture name="ramenUp0001" x="0" y="0"  width="420" height="726" frameX="-40" frameY="-55" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenUp0006" x="420" y="0"  width="413" height="724" frameX="-48" frameY="-57" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenUp0002" x="420" y="724"  width="413" height="724" frameX="-48" frameY="-57" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenUp0003" x="0" y="726"  width="407" height="722" frameX="-57" frameY="-59" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenUp0005" x="833" y="0"  width="407" height="722" frameX="-57" frameY="-59" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenUp0004" x="833" y="722"  width="402" height="723" frameX="-66" frameY="-58" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0008" x="1235" y="722"  width="410" height="662" frameX="-26" frameY="-135" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0007" x="1240" y="0"  width="407" height="662" frameX="-27" frameY="-135" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0009" x="1235" y="1384"  width="406" height="662" frameX="-27" frameY="-135" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenLeft" x="1641" y="1384"  width="384" height="698" frameX="-0" frameY="-0" frameWidth="384" frameHeight="698"/>
+  <SubTexture name="ramenIdol0006" x="0" y="1448"  width="403" height="662" frameX="-29" frameY="-135" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0010" x="833" y="1445"  width="401" height="662" frameX="-29" frameY="-135" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0005" x="403" y="1448"  width="400" height="662" frameX="-30" frameY="-135" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0011" x="1645" y="662"  width="396" height="661" frameX="-31" frameY="-136" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0004" x="2025" y="1323"  width="396" height="661" frameX="-31" frameY="-136" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0003" x="1647" y="0"  width="392" height="661" frameX="-33" frameY="-136" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0012" x="2039" y="0"  width="391" height="661" frameX="-33" frameY="-136" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0002" x="2041" y="661"  width="389" height="661" frameX="-34" frameY="-136" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenIdol0001" x="1234" y="2046"  width="384" height="663" frameX="-36" frameY="-134" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramendown0004" x="803" y="2107"  width="382" height="506" frameX="-53" frameY="-283" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramendown0003" x="2025" y="1984"  width="379" height="504" frameX="-53" frameY="-285" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramendown0002" x="1618" y="2082"  width="377" height="502" frameX="-52" frameY="-287" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramendown0001" x="0" y="2110"  width="374" height="500" frameX="-52" frameY="-289" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenRight0001" x="374" y="2110"  width="368" height="476" frameX="-113" frameY="-288" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenRight0002" x="2404" y="1984"  width="364" height="476" frameX="-113" frameY="-288" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenRight0003" x="2421" y="1322"  width="358" height="481" frameX="-113" frameY="-288" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenRight0004" x="2430" y="0"  width="352" height="484" frameX="-113" frameY="-288" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenRight0006" x="2404" y="1984"  width="364" height="476" frameX="-113" frameY="-288" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramenRight0005" x="2421" y="1322"  width="358" height="481" frameX="-113" frameY="-288" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramendown0006" x="1618" y="2082"  width="377" height="502" frameX="-52" frameY="-287" frameWidth="500" frameHeight="800"/>
+  <SubTexture name="ramendown0005" x="2025" y="1984"  width="379" height="504" frameX="-53" frameY="-285" frameWidth="500" frameHeight="800"/>
+</TextureAtlas>
